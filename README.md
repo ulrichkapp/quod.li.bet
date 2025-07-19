@@ -8,3 +8,5 @@
 **quod.libet** benötigt weder AJAX noch einen Datenbankserver.<br>
 Es verwendet zur Speicherung der URLs eine SQLite Datenbank-Datei und ist in PHP geschrieben.<br>
 **Als quelloffene Software kann jede:r die Qualität und Integrität des Codes selbst überprüfen.**
+
+… bald wird hier die Anleitung zu Installation erscheinen.
