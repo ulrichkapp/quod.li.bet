@@ -1,12 +1,12 @@
 ![](media/quod.libet.svg)
 # • quod.libet
-### der etwas andere URL-Shortener
+### the slightly different URL-Shortener
 
 
-**quod.libet** sichert lediglich die URL und einen Hash (Einweg-verschlüsselt) für die Identifizierung beim Abruf.<br>**Keine persönlichen Daten werden gespeichert.**
+**quod.libet** only saves the URL and a Hash (one-way-encrypted) to identify on recall.<br>**No personal data will be saved.**
 
-**quod.libet** benötigt weder AJAX noch einen Datenbankserver.<br>
-Es verwendet zur Speicherung der URLs eine SQLite Datenbank-Datei und ist in PHP geschrieben.<br>
-**Als quelloffene Software kann jede:r die Qualität und Integrität des Codes selbst überprüfen.**
+**quod.libet** doesn't use neither AJAX nor a database-server.<br>
+For saving the URLs and the Hash, it uses an SQLite database-file and it is written in PHP 8 (8.3 recommended)<br>
+**As it is open source software, everybody can check the sources.**
 
-… bald wird hier die Anleitung zu Installation erscheinen.
+… Installation instructions coming soon.
